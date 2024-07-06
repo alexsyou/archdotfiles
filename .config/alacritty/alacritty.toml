@@ -1,0 +1,10 @@
+#import = [
+#	"C:\\users\\stack\\appdata\\roaming\\alacritty\\themes\\themes\\rose-pine.toml"
+#]
+
+[font]
+size = 20
+normal		= { family = "ProggyCleanSZ Nerd Font Mono", style = "Regular" }
+bold		= { family = "ProggyCleanSZ Nerd Font Mono", style = "Bold" }
+italic		= { family = "ProggyCleanSZ Nerd Font Mono", style = "Italic" }
+bold_italic	= { family = "ProggyCleanSZ Nerd Font Mono", style = "Bold Italic" }
