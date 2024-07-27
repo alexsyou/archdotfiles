@@ -1,6 +1,9 @@
-#import = [
-#	"C:\\users\\stack\\appdata\\roaming\\alacritty\\themes\\themes\\rose-pine.toml"
-#]
+import = [
+	"~/.config/alacritty/themes/themes/rose-pine-moon.toml"
+]
+
+[window]
+padding = { x = 16, y = 16 }
 
 [font]
 size = 20
