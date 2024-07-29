@@ -1,0 +1,6 @@
+font=Noto Sans Mono 10
+format=<b>%a</b>\n%s\n%b
+background-color=#f4ede8
+text-color=#575279
+border-color=#b4637a
+icon-path=/usr/share/icons/rose-pine-moon-icons/
